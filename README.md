@@ -1,2 +1,2 @@
 # sonu_pro
-new project
+new project.
